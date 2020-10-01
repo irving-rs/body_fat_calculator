@@ -2,7 +2,8 @@
 Body Fat Calculator: Estimates body fat, fat mass and lean mass.
 
 Programmed in Python 3.8.5, uses CLI. 
-
+This is a very efficient and easy method for people to measure
+Their body fat without having to go to doctors or medical centres.
 ## Details:
 - Based on the US Navy formula.
 - Metric unit system.
